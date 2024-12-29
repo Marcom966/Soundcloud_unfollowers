@@ -1,0 +1,16 @@
+
+.firstP{
+    background-color: black;
+    color: white;
+    text-align: center;
+    font-family: 'San Francisco', Helvetica, Arial, san-serif;
+    font-size: large;
+    
+}
+.pageComponent{
+    background-color: black;
+    color: white;
+    width: 100%;
+    margin: auto;
+    padding: 10px;
+}
